@@ -1,6 +1,6 @@
-#Livro de receitas :pizza:
+# Livro de receitas :pizza:
 
 Olá, tudo bem? Este é meu livro de receitas criado com o objetivo de aprender os conceitos de Git e GitHub
 
-###Receitas:
+### Receitas:
  - Strogonoff de frango
